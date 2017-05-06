@@ -253,7 +253,7 @@ input[type=submit] {
   }
 
   .work {
-    width: 420px;
+    width: 100%;
   }
 }
 
@@ -279,7 +279,7 @@ input[type=submit] {
   }
 
   .work {
-    width: 323px;
+    width: 100%;
   }
 }
 
@@ -312,6 +312,6 @@ input[type=submit] {
   }
 
   .work {
-    width: 547px;
+    width: 100%;
   }
 }
