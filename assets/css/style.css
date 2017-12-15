@@ -39,6 +39,10 @@ p {
   margin-bottom: 20px;
 }
 
+.contact {
+  margin-bottom: 0;
+}
+
 p:last-child {
   margin-bottom: 0;
 }
